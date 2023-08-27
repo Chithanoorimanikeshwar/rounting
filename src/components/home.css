@@ -1,0 +1,17 @@
+.logo{
+    width:100vw;
+    height:20vh;
+    background-image:linear-gradient(90deg,white,blue) ;
+    background-repeat: no-repeat;
+    /* align-items: end; */
+}
+.input{
+    height:auto;
+
+}
+form {
+    text-align: -webkit-right;
+}
+.form-control{
+    border-radius: 0;
+}
